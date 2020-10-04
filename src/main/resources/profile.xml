@@ -1,0 +1,23 @@
+<ArrayList>
+    <item>
+        <member_name>Celio</member_name>
+        <member_surname>Da Paixao</member_surname>
+        <member_address>23 Benrose Road</member_address>
+        <cell_num>763059013</cell_num>
+        <city>JHB</city>
+    </item>
+    <item>
+        <member_name>Shane</member_name>
+        <member_surname>Brown</member_surname>
+        <member_address>1 Novel Street</member_address>
+        <cell_num>782348765</cell_num>
+        <city>JHB</city>
+    </item>
+    <item>
+        <member_name>Britney</member_name>
+        <member_surname>Ross</member_surname>
+        <member_address>7 Ola Road</member_address>
+        <cell_num>613729471</cell_num>
+        <city>JHB</city>
+    </item>
+</ArrayList>
